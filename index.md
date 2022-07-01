@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Welcome to ESTL
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
