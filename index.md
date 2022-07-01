@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Test
 sections:
   - hero:
       title: Welcome to ESTL
