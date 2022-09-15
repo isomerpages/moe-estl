@@ -2,6 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - FlexiList.md
-      - All Ears.md
       - Our Work.md
+      - All Ears.md
+      - FlexiList.md
