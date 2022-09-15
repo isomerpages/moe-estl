@@ -1,0 +1,4 @@
+collections:
+  our-workplace:
+    output: true
+    order: []
