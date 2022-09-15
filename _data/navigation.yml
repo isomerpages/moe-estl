@@ -2,12 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example
-    url: /Example/
   - title: who we are
-    url: /who-we-are/
+    url: /who-we-are
     sublinks:
       - title: Vision and Mission
-        url: /vision-mission/
+        url: /who-we-are/vision-mission/
       - title: Our Values
-        url: /values/
+        url: /who-we-are/values/
