@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Who we are
     url: /who-we-are/vision-mission
     sublinks:
@@ -15,3 +13,5 @@ links:
     url: /what-we-play
   - title: Careers
     url: /careers/overview
+  - title: Contact Us
+    url: /contact-us/
