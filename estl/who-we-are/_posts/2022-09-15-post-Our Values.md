@@ -50,12 +50,8 @@ Lastly, we take ownership. If it is to be, it is up to me. I will take the initi
 
   
 
-Expanding on our Values
------------------------
-
-  
-
-**1.  Start with the User  **
+ 
+# Start with the User  
       
     
 
@@ -67,7 +63,7 @@ When we embark on a new project or piece of work, our first starting point would
 
   
 
-**2.  Stronger Together  **
+# Stronger Together 
       
     
 
@@ -87,7 +83,7 @@ We seek unity in diversity; knowing we will emerge stronger when we bring everyo
 
   
 
-3.  Constructively Challenge  
+# Constructively Challenge  
       
     
 
@@ -106,7 +102,7 @@ There is a common understanding that everyone is doing their best for the team, 
   
   
 
-4.  Outcomes over Outputs  
+# Outcomes over Outputs  
       
     
 
@@ -119,7 +115,7 @@ Unlike output driven organisations, we see lots of activity and people working r
   
   
 
-5.  Embrace Experimentation
+# Embrace Experimentation
     
 
   
@@ -141,7 +137,7 @@ That means shaping an environment where everyone’s curiosity is encouraged, ef
   
   
 
-6.  Take Ownership
+# Take Ownership
     
 
   
@@ -165,7 +161,7 @@ When we take ownership of our work, we make ourselves a dependable team member. 
   
   
 
-7.  Actively Give and Seek Feedback
+# Actively Give and Seek Feedback
     
 
   
@@ -191,7 +187,7 @@ As we build a culture of positive and constructive critique, we create a safe an
   
   
 
-8.  Learn & Teach
+# Learn & Teach
     
 
   
