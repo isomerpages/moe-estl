@@ -5,9 +5,9 @@ links:
   - title: Example
     url: /Example/
   - title: who we are
-    url: /estl/who-we-are
+    url: /who-we-are/
     sublinks:
       - title: Vision and Mission
         url: /vision-mission/
       - title: Our Values
-        url: /estl/who-we-are/our-values/
+        url: /values/
