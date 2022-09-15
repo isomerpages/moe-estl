@@ -1,4 +1,5 @@
 collections:
   what-we-play:
     output: true
-    order: []
+    order:
+      - together.md
