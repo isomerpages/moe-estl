@@ -1,7 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Experimental Systems and Technology Lab
+description: |-
+  An entrepreneurial product team, 
+  solving real problems in the education sector and 
+  enabling every student on their journey to realise their potential.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Test
@@ -29,3 +32,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
