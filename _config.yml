@@ -3,7 +3,7 @@ url: https://estl.sg
 favicon: /images/estl-favicon-256.ico
 colors:
   primary-color: "#22577a"
-  secondary-color: "#fcb119"
+  secondary-color: "#1964fc"
   media-colors:
     - title: media-color-one
       color: "#f5cac3"
