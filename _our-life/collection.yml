@@ -1,5 +1,5 @@
 collections:
-  what-we-play:
+  our-life:
     output: true
     order:
       - together.md
