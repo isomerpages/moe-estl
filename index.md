@@ -5,7 +5,7 @@ description: |-
   An entrepreneurial product team, 
   solving real problems in the education sector and 
   enabling every student on their journey to realise their potential.
-image: /images/ESTL-logo.png
+image: /images/estl-logo-text.svg
 permalink: /
 notification: ""
 sections:
@@ -24,3 +24,4 @@ sections:
       button: What we do
       url: /what-we-do/our-work/
 ---
+
