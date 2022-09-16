@@ -19,6 +19,5 @@ sections:
       subtitle: Our vision
       description: that is empowering, effective, and enjoyable, for everyone
       button: What we do
-      url: /faq/
+      url: /what-we-do/our-work/
 ---
-
