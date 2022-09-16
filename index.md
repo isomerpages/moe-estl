@@ -5,7 +5,7 @@ description: |-
   An entrepreneurial product team, 
   solving real problems in the education sector and 
   enabling every student on their journey to realise their potential.
-image: /images/isomer-logo.svg
+image: /images/ESTL-logo.png
 permalink: /
 notification: Chotto! We are building it now to serve you better.
 sections:
@@ -21,3 +21,4 @@ sections:
       button: What we do
       url: /faq/
 ---
+
