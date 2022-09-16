@@ -2,11 +2,7 @@ logo: /images/ESTL-logo.png
 links:
   - title: Who we are
     url: /who-we-are/vision-mission
-    sublinks:
-      - title: Vision and Mission
-        url: /who-we-are/vision-mission/
-      - title: Our Values
-        url: /who-we-are/values/
+    sublinks: []
   - title: What we do
     url: /what-we-do/our-work/
   - title: What we play
