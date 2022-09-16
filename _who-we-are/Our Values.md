@@ -3,7 +3,7 @@ title: Our Values
 permalink: /who-we-are/values/
 description: ""
 ---
-**
+
 
 What are values?
 ----------------
@@ -266,4 +266,3 @@ Fun can also deepen our connection with each other. As we enjoy our time togethe
   
 
 When teammates trust each other, it opens us up, makes us laugh. We consciously make time and space for team members to play at work, as we believe that playfulness is an important way to recharge our soul in our pursuit of meaningful work amid obstacles.
-
