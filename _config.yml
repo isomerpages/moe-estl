@@ -6,15 +6,15 @@ colors:
   secondary-color: "#1964fc"
   media-colors:
     - title: media-color-one
-      color: "#f5cac3"
+      color: "#264653"
     - title: media-color-two
-      color: "#84a59d"
+      color: "#e76f51"
     - title: media-color-three
-      color: "#f28482"
+      color: "#2a9d8f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#f4a261"
     - title: media-color-five
-      color: "#00838f"
+      color: "#8ab17d"
 description: |-
   An entrepreneurial product team, 
   solving real problems in the education sector and 
