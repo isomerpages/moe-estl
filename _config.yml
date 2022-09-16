@@ -1,9 +1,9 @@
 title: Experimental Systems and Technology Lab
 url: https://estl.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/estl-favicon-256.ico
 colors:
   primary-color: "#22577a"
-  secondary-color: "#38a3a5"
+  secondary-color: "#fcb119"
   media-colors:
     - title: media-color-one
       color: "#f5cac3"
@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-estl-staging.netlify.app
 prod: https://moe-estl-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/ESTL-logo.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
