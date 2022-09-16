@@ -7,13 +7,16 @@ description: |-
   enabling every student on their journey to realise their potential.
 image: /images/ESTL-logo.png
 permalink: /
-notification: Chotto! We are building it now to serve you better.
+notification: ""
 sections:
   - hero:
-      title: Experimental Systems & Technology Lab
+      title: ESTL
       background: /images/hero-banner.png
       button: Join Us
       url: /contact-us/
+      subtitle: An entrepreneurial product team,  solving real problems in the
+        education sector and  enabling every student on their journey to realise
+        their potential.
   - infobar:
       title: create an inter-connected tech ecosystem in MOE
       subtitle: Our vision
