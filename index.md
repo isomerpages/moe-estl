@@ -7,29 +7,17 @@ description: |-
   enabling every student on their journey to realise their potential.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Test
+notification: Chotto! We are building it now to serve you better.
 sections:
   - hero:
-      title: Welcome to ESTL
-      subtitle: Hero subtitle
+      title: Experimental Systems & Technology Lab
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Join Us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: create an inter-connected tech ecosystem in MOE
+      subtitle: Our vision
+      description: that is empowering, effective, and enjoyable, for everyone
+      button: What we do
       url: /faq/
 ---
-
