@@ -3,8 +3,6 @@ title: Our Values
 permalink: /who-we-are/values/
 description: ""
 ---
-
-
 What are values?
 ----------------
 
@@ -49,7 +47,7 @@ Lastly, we take ownership. If it is to be, it is up to me. I will take the initi
   
 
  
-# Start with the User  
+### Start with the User  
       
     
 
@@ -61,7 +59,7 @@ When we embark on a new project or piece of work, our first starting point would
 
   
 
-# Stronger Together 
+### Stronger Together 
       
     
 
@@ -81,7 +79,7 @@ We seek unity in diversity; knowing we will emerge stronger when we bring everyo
 
   
 
-# Constructively Challenge  
+### Constructively Challenge  
       
     
 
@@ -100,7 +98,7 @@ There is a common understanding that everyone is doing their best for the team, 
   
   
 
-# Outcomes over Outputs  
+### Outcomes over Outputs  
       
     
 
@@ -113,7 +111,7 @@ Unlike output driven organisations, we see lots of activity and people working r
   
   
 
-# Embrace Experimentation
+### Embrace Experimentation
     
 
   
@@ -135,7 +133,7 @@ That means shaping an environment where everyone’s curiosity is encouraged, ef
   
   
 
-# Take Ownership
+### Take Ownership
     
 
   
@@ -158,8 +156,8 @@ When we take ownership of our work, we make ourselves a dependable team member. 
   
   
   
-
-# Actively Give and Seek Feedback
+ 
+### Actively Give and Seek Feedback
     
 
   
@@ -185,7 +183,7 @@ As we build a culture of positive and constructive critique, we create a safe an
   
   
 
-# Learn & Teach
+### Learn & Teach
     
 
   
@@ -252,7 +250,7 @@ Autonomy over control breeds positive motivation, community culture, and mutual 
   
   
 
-Playfulness at work. The recipe of creativity and happiness.
+Playfulness at work - the recipe of creativity and happiness
 ------------------------------------------------------------
 
   
