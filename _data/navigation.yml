@@ -1,8 +1,7 @@
 logo: /images/ESTL-logo.png
 links:
-  - title: Who we are
+  - title: About us
     url: /who-we-are/vision-mission
-    sublinks: []
   - title: What we do
     url: /what-we-do/our-work/
   - title: What we play
@@ -11,5 +10,3 @@ links:
     url: /careers/joinus
   - title: Contact us
     url: /contact-us/
-  - title: About us
-    url: /who-we-are/vision-mission
