@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-estl-staging.netlify.app
 prod: https://moe-estl-prod.netlify.app
-shareicon: /images/ESTL-logo.png
+shareicon: /images/estl-logo-text.svg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
