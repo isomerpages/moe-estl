@@ -2,4 +2,4 @@ collections:
   life-at-estl:
     output: true
     order:
-      - together.md
+      - Our Culture.md
