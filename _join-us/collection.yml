@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Quality Engineers.md
       - Education Officers.md
       - Our Hiring Process.md
       - Internship.md
