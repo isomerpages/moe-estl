@@ -1,5 +1,5 @@
 collections:
-  careers:
+  join-us:
     output: true
     order:
       - Overview.md
