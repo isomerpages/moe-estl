@@ -19,4 +19,15 @@ sections:
       description: An in-house development team within the Ministry of Education
       button: Our Work
       url: /what-we-do/our-work/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
