@@ -2,5 +2,5 @@ collections:
   life-at-estl:
     output: true
     order:
-      - Our Workspace.md
       - Our Culture.md
+      - Our Workspace.md
