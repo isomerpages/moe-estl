@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Our work.md
       - How we build.md
       - All Ears.md
       - FlexiList.md
