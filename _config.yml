@@ -2,8 +2,8 @@ title: Experimental Systems and Technology Lab
 url: https://estl.sg
 favicon: /images/estl-favicon-256.ico
 colors:
-  primary-color: "#22577a"
-  secondary-color: "#1964fc"
+  primary-color: "#0054c8"
+  secondary-color: "#006afb"
   media-colors:
     - title: media-color-one
       color: "#264653"
