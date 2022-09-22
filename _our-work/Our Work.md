@@ -3,7 +3,6 @@ title: Our Work
 permalink: /our-work/
 description: ""
 ---
-
 ## How we Work
 When we build solutions for our users, we don’t merely start with the user. We have actual users within the team! Teachers (Education Officers) who have many years of on-ground experience and domain knowledge are part of our development team, serving as product managers. They have the utmost empathy for all our teachers, having been there and champion strongly the user perspective. 
 
@@ -22,4 +21,4 @@ This could be the overview page of all our products or work that we do. We choos
 
 | ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  |
 | -------- | -------- |
-| **[All Ears](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     | **[FlexiList](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     |
+| **[All Ears](https://moe-estl-staging.netlify.app/what-we-do/all-ears/)**     | **[FlexiList](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     |
