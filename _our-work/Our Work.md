@@ -21,4 +21,4 @@ This could be the overview page of all our products or work that we do. We choos
 
 | ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  |
 | -------- | -------- |
-| **All Ears**     | **FlexiList**     |
+| **[All Ears](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     | **[FlexiList](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     |
