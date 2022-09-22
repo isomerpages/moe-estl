@@ -15,5 +15,6 @@ We are organised in focused cross-functional Agile teams working together from t
 ## Our Work
 This could be the overview page of all our products or work that we do. We choose to name it as "Our Works" as some of our work is not exactly to build a product but help out in different ways.
 
-| ![All Ears](/images/work-allears-thumb.png) **All Ears** | ![FlexiList](/images/work-flexilist-thumb.png) **FlexiList** |
-| -------- | -------- |
+| ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  | ![One School Bus](/images/work-oneschoolbus-thumb.png) |
+| -------- | -------- | -------- |
+| **All Ears**     | **FlexiList**     | **One School Bus**     |
