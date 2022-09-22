@@ -18,3 +18,7 @@ This could be the overview page of all our products or work that we do. We choos
 | ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  | ![One School Bus](/images/work-oneschoolbus-thumb.png) |
 | -------- | -------- | -------- |
 | **All Ears**     | **FlexiList**     | **One School Bus**     |
+
+| ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  |
+| -------- | -------- |
+| **All Ears**     | **FlexiList**     |
