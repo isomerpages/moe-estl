@@ -15,10 +15,22 @@ We are organised in focused cross-functional Agile teams working together from t
 ## Our Work
 This could be the overview page of all our products or work that we do. We choose to name it as "Our Works" as some of our work is not exactly to build a product but help out in different ways.
 
+
+Markdown - 3col
+
 | ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  | ![One School Bus](/images/work-oneschoolbus-thumb.png) |
 | -------- | -------- | -------- |
 | **All Ears**     | **FlexiList**     | **One School Bus**     |
 
+Markdown - 2col (with text link, image cannot link)
+
 | ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  |
 | -------- | -------- |
 | **[All Ears](https://moe-estl-staging.netlify.app/what-we-do/all-ears/)**     | **[FlexiList](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     |
+
+
+HTML table (image + text link)
+<table><tr>
+	<td width="50%"><a href="https://moe-estl-staging.netlify.app/what-we-do/all-ears/"><img src="images/work-allears-thumb.png"/>All Ears</a></td><td width="50%"><a href="https://moe-estl-staging.netlify.app/what-we-do/flexi-list/"><img src="images/work-flexilist-thumb.png"/> FlexiList</a></td>
+	</tr></table>
+
