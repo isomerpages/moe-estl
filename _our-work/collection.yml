@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Our Work.md
-      - How we work.md
       - All Ears.md
       - FlexiList.md
