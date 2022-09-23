@@ -17,7 +17,7 @@ For example, a teacher can specify that his/her form class as the target audienc
 
 
 ### Team
-Name with link to portfolio or github | Name with link to portfolio or github
+[Andy Chan](https://github.com/andlimey) | Name with link to portfolio or github
 
 ### Partner
 Name of the Agency or Division | Name of the Agency or Division
