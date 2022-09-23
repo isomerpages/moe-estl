@@ -5,20 +5,15 @@ description: ""
 ---
 [place holder for a photo]
 
-### Impact to Users
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit
-* sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-* Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
-
 
 ### Problem Space
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Part of a teacher's administrative job is to collect data or issue surveys to students. However, existing form-builders, such as FormSG, do not meet all the needs a teacher requires, such as tracking the students who hasn't submitted the form. This makes it cumbersome to conduct surveys on students despite using a digital form.
 
 ### Solution
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+All Ears is a form-builder that is integrated with schools' data. Form creators are able to specify the target audience for the form, which enables All Ears to track the responses. 
 
+For example, a teacher can specify that his/her form class as the target audience of the form. When the students submit the form, All Ears is able to track the students that have submitted, and consequently the students that have not.
 
 
 ### Team
