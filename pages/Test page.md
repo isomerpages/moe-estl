@@ -220,47 +220,42 @@ https://www.gobusiness.gov.sg/about-us/
 
 ## GovTech
 https://www.tech.gov.sg/products-and-services/
-	<div class="bp-container">
-		<div class="row is-multiline"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/ask-jamie/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/f61a669729f94718b8cbe980426210986589a92c/e6a9c/images/programmes/products-and-services/askjamie_thumbnail.jpg" alt="Image for 'Ask Jamie' Virtual Assistant" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>'Ask Jamie' Virtual Assistant</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/building-products-and-services-for-everyone/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/c427de9e8c119cc6986650292c404558b0c11efc/4c33e/images/programmes/products-and-services/we_build_for_everyone.png" alt="Image for We build for everyone" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>We build for everyone</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/data-gov-sg/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/f5038336be136d613e6e8012a76120ff1330f6d6/7d501/images/programmes/products-and-services/data_gov_sg.png" alt="Image for Data.gov.sg" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Data.gov.sg</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/ecitizen-ideas/" class="project-link">
-		                <img src="/images/programmes/products-and-services/idea's-portal.jpg" alt="Image for Ideas! crowdsourcing portal" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Ideas! crowdsourcing portal</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div>
+{%- comment -%} Accordion section {%- endcomment -%}
+{%- assign our-journey = site.data.our-journey -%}
+{%- for our-journey-section in our-journey -%}
+	{%- comment -%} Accordion header {%- endcomment -%}
+	<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+		<div class="col is-expanded is-fullwidth is-paddingless">
+			<h5 class="has-text-grey-dark is-marginless"><b> {{- our-journey-section.title -}}
+			</b></h5>
 		</div>
+		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 	</div>
+	{%- comment -%} Accordion body {%- endcomment -%}
+	<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
+		{%- for year in our-journey-section.years -%}
+			{%- if year.img -%}
+				<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
+					<div class="row">
+						<div class="col is-8">
+							<h3 class="margin--top--none"><b>{{- year.subtitle -}}</b></h3>
+							{%- for information in year.description -%}
+								<p class="margin--top--none">{{- information.line -}}</p>
+							{%- endfor -%}						
+						</div>
+						<div class="col is-4">
+							<img class="bp-image-milestone" src="{{site.baseurl}}{{year.img}}">
+						</div>
+					</div>
+				</div>
+			{%- else -%}
+				<h3 class="margin--top--none padding--top"><b>{{- year.subtitle -}}</b></h3>
+				{%- for information in year.description -%}
+					<p class="margin--top--none">{{- information.line -}}</p>
+				{%- endfor -%}
+			{%- endif -%}
+			{%- if forloop.last == false -%}<hr style="margin-top: 28px">{%- endif -%}
+		{%- endfor -%}
+		<br />
+	</div>
+{%- endfor -%}
