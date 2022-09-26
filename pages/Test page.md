@@ -3,7 +3,6 @@ title: Test page
 permalink: /test/
 description: ""
 ---
-
 testing out the 1st level page
 
 <div class="panels">
