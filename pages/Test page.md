@@ -5,6 +5,78 @@ description: ""
 ---
 testing out the 1st level page
 
+From https://www.gobusiness.gov.sg/about-us/
+<style>
+    .content .panels {
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: 1fr 1fr;
+        margin: 24px 0;
+    }
+
+    .content .panel {
+        display: grid;
+        row-gap: 16px;
+        border: 1px solid #dbdfe4;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        padding: 24px;
+        word-break: break-word;
+        grid-auto-rows: auto;
+    }
+
+    .content .panel .panel-image {
+        font-family: hknova-semibold;
+        font-size: 24px;
+        font-weight: 600;
+        width: auto;
+        height: 60px;
+    }
+
+    .content .panel .panel-image>img {
+        width: auto;
+        height: 100%;
+        margin: 0;
+    }
+
+    .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
+        width: 150px;
+        object-fit: cover;
+        object-position: 90% 10%;
+    }
+
+    .content .panel .panel-title {
+        font-family: hknova-semibold;
+        margin: 0;
+    }
+
+    .content .panel .panel-description,
+    .content [class*="panel-"]>div {
+        font-family: hknova-regular;
+        margin: 0;
+    }
+
+    .content .panel .panel-links-container {
+        display: grid;
+        row-gap: 8px;
+        height: fit-content;
+        align-self: end;
+    }
+
+    .content .panel .panel-link {
+        font-size: 18px;
+        line-height: 27px;
+        display: block;
+        margin: 0;
+    }
+
+
+    @media (max-width: 600px) {
+        .content .panels {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
 <div class="panels">
     
     <div class="panel">
@@ -336,3 +408,28 @@ testing out the 1st level page
 		            </div></div>
 	</div>
 </section>
+
+
+<div class="row">
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="https://d33wubrfki0l68.cloudfront.net/76c5467c3a7ae344772eb71b2b2cf3931a97bf7e/6d2ad/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
+		<div class="header"><b>GoBusiness</b></div><br>
+		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/initiatives/strategic-national-projects/codex"><img src="https://d33wubrfki0l68.cloudfront.net/4809383c92099be1754c0718da9393d16d80a406/33441/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
+	<div class="header"><b>CODEX</b></div><br>
+	<div class="para">CODEX is a shared digital platform between government agencies and private sectors to develop better, faster and more cost-effective digital services.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/initiatives/strategic-national-projects/e-payments"><img src="https://d33wubrfki0l68.cloudfront.net/e668240e1ea9cfe617cfbac098c3ba2d6fd5ab94/435e0/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
+	<div class="header"><b>E-Payments</b></div><br>
+	<div class="para">To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
+</div>
+<br></div></div>
