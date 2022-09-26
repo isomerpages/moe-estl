@@ -79,10 +79,18 @@ This could be the overview page of all our products or work that we do. We choos
 | **[All Ears](https://moe-estl-staging.netlify.app/what-we-do/all-ears/)**     | **[FlexiList](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     |
 
 
-**HTML table (image + text link)**
-<table><tr>
-	<td width="50%"><a href="/what-we-do/all-ears/"><img src="images/work-allears-thumb.png"/>All Ears</a></td><td width="50%"><a href="/what-we-do/flexi-list/"><img src="images/work-flexilist-thumb.png"/> FlexiList</a></td>
-	</tr></table>
+**HTML row col (image link + text)**
+
+<div class="row">  
+	<div class="col"> 
+    <a href="/what-we-do/all-ears/"><img src="images/work-allears-thumb.png" alt="All Ears"></a><br>
+     <div class="header"><b>All Ears</b></div><br>
+  </div>
+	<div class="col"> 
+      <a href="/what-we-do/flexi-list/">  <img src="images/work-flexilist-thumb.png" alt="FlexiList"></a><br>
+       <div class="header"><b>FlexiList</b></div><br>
+	</div>
+</div>
 	
 **HTML copy from OGP**
 <div class="careers">
