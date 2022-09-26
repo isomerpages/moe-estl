@@ -5,7 +5,8 @@ description: ""
 ---
 testing out the 1st level page
 
-From https://www.gobusiness.gov.sg/about-us/
+## GoBusiness 
+https://www.gobusiness.gov.sg/about-us/
 <style>
     .content .panels {
         display: grid;
@@ -117,12 +118,7 @@ From https://www.gobusiness.gov.sg/about-us/
         
         
         <div class="panel-links-container">
-            
-            
-            
             <div class="panel-links-group">
-                
-                
                 <a class="panel-link" rel="noopener" href="/e-services/guides-for-biz/" target="">
                     View out Guides for Businesses
                     </a>
@@ -198,16 +194,10 @@ From https://www.gobusiness.gov.sg/about-us/
         
         
         <div class="panel-links-container">
-            
-            
-            
             <div class="panel-links-group">
-                
-                
                 <a class="panel-link" rel="noopener" href="/gov-assist/" target="">
                     Find Out More
                     </a>
-                
             </div>
             
         </div>
@@ -215,55 +205,22 @@ From https://www.gobusiness.gov.sg/about-us/
     </div>
     
     <div class="panel">
-        
-        
         <div class="panel-image"><img src="/images/aboutus/GeBiz Alerts.svg"></div>
-        
         <h4 class="panel-title">Get GeBIZ alerts</h4>
-        
         <p class="panel-description">Stay competitive and subscribe for daily email notifications on government procurement opportunities posted on Government Electronic Business (GeBIZ).</p>
         
-        
         <div class="panel-links-container">
-            
-            
-            
-            <div class="panel-links-group">
-                
-                
-                <a class="panel-link" rel="noopener" href="/gebiz-alerts/" target="">
+            <div class="panel-links-group"><a class="panel-link" rel="noopener" href="/gebiz-alerts/" target="">
                     Subscribe Here
                     </a>
-                
             </div>
-            
         </div>
-        
     </div>
-    
 </div>
 
-<section class="bp-section">
-	<div class="bp-container padding--top--lg">
-	    <div class="row">
-	      <div class="col content is-8 is-offset-2"><h1><div class="has-text-centered has-text-weight-bold">Co-creating for Better Value</div></h1>
-
-<center>Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.</center>
-</div>
-	    </div>
-		<div class="row">
-			<div class="col">
-				<span class="bp-sec-button has-text-centered">
-					<a class="is-uppercase media-category-button" id="citizens-button"><b>For Citizens</b></a>
-					<a class="is-uppercase media-category-button" id="business-button"><b>For Businesses</b></a>
-					<a class="is-uppercase media-category-button selected" id="government-button"><b>For Government</b></a>
-				</span>
-			</div>
-		</div>
-	</div>
-</section>
-
-<section class="bp-section bg-table-grey" id="citizens" style="display: none;">
+## GovTech
+https://www.tech.gov.sg/products-and-services/
+<section class="bp-section bg-table-grey" id="citizens">
 	<div class="bp-container">
 		<div class="row is-multiline"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
 						<a href="/products-and-services/ask-jamie/" class="project-link">
@@ -377,7 +334,7 @@ From https://www.gobusiness.gov.sg/about-us/
 		                </a>
 		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
 						<a href="/products-and-services/student-learning-space/" class="project-link">
-		                <img src="/images/work-allears-thumb.png" alt="Image for Student Learning Space" class="project-image">
+		                <img src="https://d33wubrfki0l68.cloudfront.net/9715247b12d8b2a33197fc33b416b3852c601cb3/6581f/images/programmes/products-and-services/student_learning_space.png" alt="Image for Student Learning Space" class="project-image">
 		                <div class="project-card">
 		                    <div class="project-title margin--bottom--xs">
 		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
@@ -408,28 +365,3 @@ From https://www.gobusiness.gov.sg/about-us/
 		            </div></div>
 	</div>
 </section>
-
-
-<div class="row">
-<div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="https://d33wubrfki0l68.cloudfront.net/76c5467c3a7ae344772eb71b2b2cf3931a97bf7e/6d2ad/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
-		<div class="header"><b>GoBusiness</b></div><br>
-		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="https://d33wubrfki0l68.cloudfront.net/4809383c92099be1754c0718da9393d16d80a406/33441/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
-	<div class="header"><b>CODEX</b></div><br>
-	<div class="para">CODEX is a shared digital platform between government agencies and private sectors to develop better, faster and more cost-effective digital services.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img src="https://d33wubrfki0l68.cloudfront.net/e668240e1ea9cfe617cfbac098c3ba2d6fd5ab94/435e0/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
-	<div class="header"><b>E-Payments</b></div><br>
-	<div class="para">To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
-</div>
-<br></div></div>
