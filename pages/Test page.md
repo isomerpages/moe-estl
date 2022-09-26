@@ -27,9 +27,6 @@ https://www.gobusiness.gov.sg/about-us/
     }
 
     .content .panel .panel-image {
-        font-family: hknova-semibold;
-        font-size: 24px;
-        font-weight: 600;
         width: auto;
         height: 60px;
     }
@@ -47,13 +44,11 @@ https://www.gobusiness.gov.sg/about-us/
     }
 
     .content .panel .panel-title {
-        font-family: hknova-semibold;
         margin: 0;
     }
 
     .content .panel .panel-description,
     .content [class*="panel-"]>div {
-        font-family: hknova-regular;
         margin: 0;
     }
 
