@@ -226,12 +226,12 @@ https://github.com/isomerpages/isomerpages-template/blob/staging/_layouts/our-jo
 	{%- comment -%} Accordion header {%- endcomment -%}
 	<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b> {{- our-journey-section.title -}}
+			<h5 class="has-text-grey-dark is-marginless"><b> ddd
 			</b></h5>
 		</div>
 		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 	</div>
-	{%- comment -%} Accordion body {%- endcomment -%}
+	Accordion body
 	<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 		{%- for year in our-journey-section.years -%}
 			{%- if year.img -%}
