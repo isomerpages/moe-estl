@@ -219,7 +219,7 @@ https://www.gobusiness.gov.sg/about-us/
 </div>
 
 ## Isomer gitbhub
-https://www.tech.gov.sg/who-we-are/our-journey/
+https://www.tech.gov.sg/products-and-services/
 <div class="bp-container">
     <div class="row is-multiline"> <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
                     <a href="/products-and-services/ask-jamie/" class="project-link">
