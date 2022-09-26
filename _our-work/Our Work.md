@@ -63,8 +63,6 @@ We are organised in focused cross-functional Agile teams working together from t
 
 
 ## Our Work
-This could be the overview page of all our products or work that we do. We choose to name it as "Our Works" as some of our work is not exactly to build a product but help out in different ways.
-
 
 **Markdown - 3col**
 
