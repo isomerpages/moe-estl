@@ -5,7 +5,7 @@ description: ""
 ---
 testing out the 1st level page
 
-## GoBusiness 
+**HTML/css copy from GoBusiness**
 https://www.gobusiness.gov.sg/about-us/
 <style>
     .content .panels {
@@ -218,7 +218,7 @@ https://www.gobusiness.gov.sg/about-us/
     </div>
 </div>
 
-## Isomer gitbhub
+**HTML copy from govtech**
 https://www.tech.gov.sg/products-and-services/
 <div class="bp-container">
     <div class="row is-multiline"> <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
