@@ -5,14 +5,12 @@ description: ""
 ---
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
-
     .careers {
         display: grid;
         justify-content: space-around;
         grid-gap: 20px;
         grid-template-columns: 35% 35% 35%;
     }
-
     .career {
         position: relative;
         display: flex;
@@ -23,18 +21,15 @@ description: ""
         box-shadow: 0 0 4px rgba(33,33,33,.2);
         cursor: pointer;
     }
-
     .career:hover {
         box-shadow: 0 0 11px rgba(33,33,33,.2);
     }
-
     .career-title {
         margin-top: 20px;
         font-family: "Montserrat", sans-serif;
         font-size: 26px;
         color: #276ef1 !important;
     }
-
     .career-sum {
         font-family: "Lato", sans-serif;
         font-size: 17px;
@@ -43,7 +38,6 @@ description: ""
         line-height: 24px !important;
         /* color: #276ef1 !important; */
     }
-
     .link-tag {
         position: absolute;
         top: 0;
@@ -52,15 +46,13 @@ description: ""
         right: 0;
         margin-bottom: 0 !important;
     }
-
-
     @media only screen and (max-width: 600px) {
         .careers {
             grid-template-columns: 100%;
         }
     }
-
 </style>
+
 ## How we Work
 When we build solutions for our users, we don’t merely start with the user. We have actual users within the team! Teachers (Education Officers) who have many years of on-ground experience and domain knowledge are part of our development team, serving as product managers. They have the utmost empathy for all our teachers, having been there and champion strongly the user perspective. 
 
@@ -92,12 +84,9 @@ This could be the overview page of all our products or work that we do. We choos
 	<td width="50%"><a href="/what-we-do/all-ears/"><img src="images/work-allears-thumb.png"/>All Ears</a></td><td width="50%"><a href="/what-we-do/flexi-list/"><img src="images/work-flexilist-thumb.png"/> FlexiList</a></td>
 	</tr></table>
 	
-	
+**HTML copy from OGP**
 <div class="careers">
-
-    
     <div class="career">
-        
             <a href="/products/checkfirst" class="link-tag"></a>
 			<img src="https://d33wubrfki0l68.cloudfront.net/44e87bd9f4a94c9e5bedc763c6b08cb38ce55f2f/ac86c/images/checkfirst.png" class="border-radius: 8px;" alt="CHECKFIRST" title="CHECKFIRST">
         <span class="career-title">CHECKFIRST</span>
@@ -105,22 +94,17 @@ This could be the overview page of all our products or work that we do. We choos
     </div>
     
     <div class="career">
-        
             <a href="/products/datagovsg" class="link-tag"></a>
-        
         <img src="https://d33wubrfki0l68.cloudfront.net/097e3650297f66313d94938cdc9fcb192d4734fd/3939c/images/data.gov.sg.png" class="border-radius: 8px;" alt="DATA.GOV.SG" title="DATA.GOV.SG">
         <span class="career-title">DATA.GOV.SG</span>
         <span class="career-sum">Open repository for Singapore’s public data</span>
     </div>
     
     <div class="career">
-        
             <a href="/products/digimc" class="link-tag"></a>
-        
         <img src="https://d33wubrfki0l68.cloudfront.net/fb85b3584824e050b505821974f15751a3f30053/1ea07/images/digimc.png" class="border-radius: 8px;" alt="DIGIMC" title="DIGIMC">
         <span class="career-title">DIGIMC</span>
         <span class="career-sum">Digital medical certificates with assured authenticity</span>
     </div>
-    
 
 </div>
