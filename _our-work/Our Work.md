@@ -89,7 +89,36 @@ We are organised in focused cross-functional Agile teams working together from t
        <div class="header"><b>FlexiList</b></div><br>
 	</div>
 </div>
-	
+
+
+**HTML copy from smart nation**
+https://www.smartnation.gov.sg/initiatives/strategic-national-projects
+
+<div class="row">
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="https://d33wubrfki0l68.cloudfront.net/76c5467c3a7ae344772eb71b2b2cf3931a97bf7e/6d2ad/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
+		<div class="header"><b>GoBusiness</b></div><br>
+		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/initiatives/strategic-national-projects/codex"><img src="https://d33wubrfki0l68.cloudfront.net/4809383c92099be1754c0718da9393d16d80a406/33441/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
+	<div class="header"><b>CODEX</b></div><br>
+	<div class="para">CODEX is a shared digital platform between government agencies and private sectors to develop better, faster and more cost-effective digital services.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/initiatives/strategic-national-projects/e-payments"><img src="https://d33wubrfki0l68.cloudfront.net/e668240e1ea9cfe617cfbac098c3ba2d6fd5ab94/435e0/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
+	<div class="header"><b>E-Payments</b></div><br>
+	<div class="para">To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
+</div>
+<br></div></div>
+
+
 **HTML copy from OGP**
 <div class="careers">
     <div class="career">
