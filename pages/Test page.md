@@ -220,7 +220,6 @@ https://www.gobusiness.gov.sg/about-us/
 
 ## GovTech
 https://www.tech.gov.sg/products-and-services/
-<section class="bp-section bg-table-grey" id="citizens">
 	<div class="bp-container">
 		<div class="row is-multiline"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
 						<a href="/products-and-services/ask-jamie/" class="project-link">
@@ -262,106 +261,6 @@ https://www.tech.gov.sg/products-and-services/
 		                    </div>
 		                </div>
 		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/government-qr-payment/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/4c0022b59aa37362475e21302a336ab171b8dd8c/3fbf6/images/programmes/products-and-services/governmentqrpayment.png" alt="Image for Government QR Payment" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Government QR Payment</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/lifesg/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/9180bcd0cf77d337727b8ff12636baceacc0b2df/dde98/images/programmes/products-and-services/lifesg-header.jpg" alt="Image for LifeSG" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>LifeSG</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/parents-gateway/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/56fc7aad3655442b339a0b64891b0bed1b4a729c/c4485/images/programmes/products-and-services/parentsgateway.png" alt="Image for Parents Gateway" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Parents Gateway</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/parking-sg/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/fee6a00dd83a85cebd043d2d6d1d46ff00d7adb8/7db19/images/programmes/products-and-services/parking_sg.png" alt="Image for Parking.sg" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Parking.sg</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/responding-to-covid-19-with-tech/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/8103a857449d6adbced4aa4d1bdd6449cf01bf6b/ccb4d/images/programmes/products-and-services/covid_tech.png" alt="Image for Responding to COVID-19 With Tech" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Responding to COVID-19 With Tech</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/singpass/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/05562d9b8fade37260a49fd512af40c4a371cd5b/422f6/images/programmes/products-and-services/singpass-thumbnail-new-2.jpg" alt="Image for Singpass" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Singpass</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/smart-nation-showcases/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/b6a7fe7fe2635b13fa67dff81fd90287942fa76e/1df28/images/programmes/products-and-services/smartnationbuilder.jpg" alt="Image for Smart Nation Showcases" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Smart Nation Showcases</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/student-learning-space/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/9715247b12d8b2a33197fc33b416b3852c601cb3/6581f/images/programmes/products-and-services/student_learning_space.png" alt="Image for Student Learning Space" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Student Learning Space</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/tech-kaki-community/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/f642abd6b29b0262aba4f8ac6be8b19ba67ab582/0701c/images/programmes/products-and-services/techkaki-thumbnail.jpg" alt="Image for Tech Kaki Community" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>Tech Kaki Community</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/vica/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/d6e722d224dc620edae5c948c0b622ba81bc2fec/d7948/images/programmes/products-and-services/vica-logo-2.png" alt="Image for VICA – Virtual Intelligent Chat Assistant" class="project-image">
-		                <div class="project-card">
-		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>VICA – Virtual Intelligent Chat Assistant</b></h5>
-		                    </div>
-		                </div>
-		                </a>
-		            </div></div>
+		            </div>
+		</div>
 	</div>
-</section>
