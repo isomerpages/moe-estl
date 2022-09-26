@@ -12,3 +12,5 @@ links:
     url: /joinus/hiring-process/
   - title: Contact us
     url: /contact-us/
+  - title: Work
+    resource_room: true
