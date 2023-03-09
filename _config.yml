@@ -52,8 +52,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-estl-staging.netlify.app
-prod: https://moe-estl-prod.netlify.app
+staging: https://staging.d2e05hjk2x3tyz.amplifyapp.com/
+prod: https://master.d2e05hjk2x3tyz.amplifyapp.com/
 shareicon: /images/estl-logo-text.svg
 is_government: true
 facebook-pixel: ""
