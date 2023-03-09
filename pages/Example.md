@@ -1,4 +1,4 @@
 ---
 title: Example
-permalink: /Example
+permalink: /example/
 ---
