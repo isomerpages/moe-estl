@@ -96,7 +96,7 @@ https://www.smartnation.gov.sg/initiatives/strategic-national-projects
 
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="https://d33wubrfki0l68.cloudfront.net/76c5467c3a7ae344772eb71b2b2cf3931a97bf7e/6d2ad/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
 		<div class="header"><b>GoBusiness</b></div><br>
 		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
 </div>
@@ -104,7 +104,7 @@ https://www.smartnation.gov.sg/initiatives/strategic-national-projects
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="https://d33wubrfki0l68.cloudfront.net/4809383c92099be1754c0718da9393d16d80a406/33441/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
+<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
 	<div class="header"><b>CODEX</b></div><br>
 	<div class="para">CODEX is a shared digital platform between government agencies and private sectors to develop better, faster and more cost-effective digital services.
 </div>
@@ -112,7 +112,7 @@ https://www.smartnation.gov.sg/initiatives/strategic-national-projects
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img src="https://d33wubrfki0l68.cloudfront.net/e668240e1ea9cfe617cfbac098c3ba2d6fd5ab94/435e0/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
+<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
 	<div class="header"><b>E-Payments</b></div><br>
 	<div class="para">To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
 </div>
@@ -123,21 +123,21 @@ https://www.smartnation.gov.sg/initiatives/strategic-national-projects
 <div class="careers">
     <div class="career">
             <a href="/products/checkfirst" class="link-tag"></a>
-			<img src="https://d33wubrfki0l68.cloudfront.net/44e87bd9f4a94c9e5bedc763c6b08cb38ce55f2f/ac86c/images/checkfirst.png" class="border-radius: 8px;" alt="CHECKFIRST" title="CHECKFIRST">
+			<img src="/images/checkfirst.png" class="border-radius: 8px;" alt="CHECKFIRST" title="CHECKFIRST">
         <span class="career-title">CHECKFIRST</span>
         <span class="career-sum">Calculator and eligibility builder for the government</span>
     </div>
     
     <div class="career">
             <a href="/products/datagovsg" class="link-tag"></a>
-        <img src="https://d33wubrfki0l68.cloudfront.net/097e3650297f66313d94938cdc9fcb192d4734fd/3939c/images/data.gov.sg.png" class="border-radius: 8px;" alt="DATA.GOV.SG" title="DATA.GOV.SG">
+        <img src="/images/data.gov.sg.png" class="border-radius: 8px;" alt="DATA.GOV.SG" title="DATA.GOV.SG">
         <span class="career-title">DATA.GOV.SG</span>
         <span class="career-sum">Open repository for Singapore’s public data</span>
     </div>
     
     <div class="career">
             <a href="/products/digimc" class="link-tag"></a>
-        <img src="https://d33wubrfki0l68.cloudfront.net/fb85b3584824e050b505821974f15751a3f30053/1ea07/images/digimc.png" class="border-radius: 8px;" alt="DIGIMC" title="DIGIMC">
+        <img src="/images/digimc.png" class="border-radius: 8px;" alt="DIGIMC" title="DIGIMC">
         <span class="career-title">DIGIMC</span>
         <span class="career-sum">Digital medical certificates with assured authenticity</span>
     </div>
