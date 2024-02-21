@@ -74,7 +74,7 @@ We are organised in focused cross-functional Agile teams working together from t
 
 | ![All Ears](/images/work-allears-thumb.png) | ![FlexiList](/images/work-flexilist-thumb.png)  |
 | -------- | -------- |
-| **[All Ears](https://moe-estl-staging.netlify.app/what-we-do/all-ears/)**     | **[FlexiList](https://moe-estl-staging.netlify.app/what-we-do/flexi-list/)**     |
+| **[All Ears](/what-we-do/flexi-list/)**     |
 
 
 **HTML row col (image link + text)**
