@@ -1,0 +1,7 @@
+collections:
+  our-work:
+    output: true
+    order:
+      - Our Work.md
+      - All Ears.md
+      - FlexiList.md

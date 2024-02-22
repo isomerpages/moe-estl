@@ -1,0 +1,6 @@
+collections:
+  life-at-estl:
+    output: true
+    order:
+      - Our Culture.md
+      - Our Workspace.md

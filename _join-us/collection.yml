@@ -1,0 +1,8 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - Our Hiring Process.md
+      - Internship.md
+      - Education Officers.md
+      - Quality Engineers.md

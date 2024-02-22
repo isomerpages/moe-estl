@@ -1,0 +1,62 @@
+title: Experimental Systems and Technology Lab
+url: https://estl.sg
+favicon: /images/estl-favicon-256.ico
+colors:
+  primary-color: "#0054c8"
+  secondary-color: "#006afb"
+  media-colors:
+    - title: media-color-one
+      color: "#fcb119"
+    - title: media-color-two
+      color: "#00b7b5"
+    - title: media-color-three
+      color: "#bc1f76"
+    - title: media-color-four
+      color: "#f77f03"
+    - title: media-color-five
+      color: "#731fbc"
+description: |-
+  An entrepreneurial product team, 
+  solving real problems in the education sector and 
+  enabling every student on their journey to realise their potential.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d2e05hjk2x3tyz.amplifyapp.com/
+prod: https://master.d2e05hjk2x3tyz.amplifyapp.com/
+shareicon: /images/estl-logo-text.svg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+resources_name: estl
