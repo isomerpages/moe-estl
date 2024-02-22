@@ -78,7 +78,7 @@ https://www.gobusiness.gov.sg/about-us/
     <div class="panel">
         
         
-        <div class="panel-image"><img src="https://d33wubrfki0l68.cloudfront.net/cbde465d59b2e2d3a00137a92bff3e5bbfbc3084/74c73/images/aboutus/e-services.svg"></div>
+        <div class="panel-image"><img src="/images/aboutus/e-services.svg"></div>
         
         <h4 class="panel-title">Find Government e-Services</h4>
         
@@ -105,7 +105,7 @@ https://www.gobusiness.gov.sg/about-us/
     <div class="panel">
         
         
-        <div class="panel-image"><img src="https://d33wubrfki0l68.cloudfront.net/9394592e1ae4c3cdb2466c3d6c484a9ea4516c26/5a98d/images/aboutus/e-adviser.svg"></div>
+        <div class="panel-image"><img src="/images/aboutus/e-adviser.svg"></div>
         
         <h4 class="panel-title">Get personalised help</h4>
         
@@ -127,7 +127,7 @@ https://www.gobusiness.gov.sg/about-us/
     <div class="panel">
         
         
-        <div class="panel-image"><img src="https://d33wubrfki0l68.cloudfront.net/6f7bcdf20d06a09deea255c0c5d425d9daa2d13f/b2128/images/aboutus/covid.svg"></div>
+        <div class="panel-image"><img src="/images/aboutus/covid.svg"></div>
         
         <h4 class="panel-title">Get support during COVID-19</h4>
         
@@ -154,7 +154,7 @@ https://www.gobusiness.gov.sg/about-us/
     <div class="panel">
         
         
-        <div class="panel-image"><img src="https://d33wubrfki0l68.cloudfront.net/f2afc3d7fd6ced5193807d4d2368867bb4150edc/27d48/images/aboutus/licences.svg"></div>
+        <div class="panel-image"><img src="/images/aboutus/licences.svg"></div>
         
         <h4 class="panel-title">Apply for licences</h4>
         
@@ -181,7 +181,7 @@ https://www.gobusiness.gov.sg/about-us/
     <div class="panel">
         
         
-        <div class="panel-image"><img src="https://d33wubrfki0l68.cloudfront.net/0fbe823727c6376796aba1ed52a9a934b1fad3c5/2522e/images/aboutus/govassist.svg"></div>
+        <div class="panel-image"><img src="/images/aboutus/govassist.svg"></div>
         
         <h4 class="panel-title">Get Government Assistance</h4>
         
@@ -218,7 +218,7 @@ https://www.tech.gov.sg/products-and-services/
 <div class="bp-container">
     <div class="row is-multiline"> <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
                     <a href="/products-and-services/ask-jamie/" class="project-link">
-                    <img src="https://d33wubrfki0l68.cloudfront.net/f61a669729f94718b8cbe980426210986589a92c/e6a9c/images/programmes/products-and-services/askjamie_thumbnail.jpg" alt="Image for 'Ask Jamie' Virtual Assistant" class="project-image">
+                    <img src="/images/programmes/products-and-services/askjamie_thumbnail.jpg" alt="Image for 'Ask Jamie' Virtual Assistant" class="project-image">
                     <div class="project-card">
                         <div class="project-title margin--bottom--xs">
                             <small class="tag is-uppercase padding--bottom--sm">citizens</small>
@@ -228,7 +228,7 @@ https://www.tech.gov.sg/products-and-services/
                     </a>
                 </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
                     <a href="/products-and-services/building-products-and-services-for-everyone/" class="project-link">
-                    <img src="https://d33wubrfki0l68.cloudfront.net/c427de9e8c119cc6986650292c404558b0c11efc/4c33e/images/programmes/products-and-services/we_build_for_everyone.png" alt="Image for We build for everyone" class="project-image">
+                    <img src="/images/programmes/products-and-services/we_build_for_everyone.png" alt="Image for We build for everyone" class="project-image">
                     <div class="project-card">
                         <div class="project-title margin--bottom--xs">
                             <small class="tag is-uppercase padding--bottom--sm">citizens</small>
@@ -238,7 +238,7 @@ https://www.tech.gov.sg/products-and-services/
                     </a>
                 </div><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
                     <a href="/products-and-services/data-gov-sg/" class="project-link">
-                    <img src="https://d33wubrfki0l68.cloudfront.net/f5038336be136d613e6e8012a76120ff1330f6d6/7d501/images/programmes/products-and-services/data_gov_sg.png" alt="Image for Data.gov.sg" class="project-image">
+                    <img src="/images/programmes/products-and-services/data_gov_sg.png" alt="Image for Data.gov.sg" class="project-image">
                     <div class="project-card">
                         <div class="project-title margin--bottom--xs">
                             <small class="tag is-uppercase padding--bottom--sm">citizens</small>
@@ -256,7 +256,7 @@ https://www.smartnation.gov.sg/initiatives/strategic-national-projects
 
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="https://d33wubrfki0l68.cloudfront.net/76c5467c3a7ae344772eb71b2b2cf3931a97bf7e/6d2ad/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
 		<div class="header"><b>GoBusiness</b></div><br>
 		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
 </div>
@@ -264,7 +264,7 @@ https://www.smartnation.gov.sg/initiatives/strategic-national-projects
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="https://d33wubrfki0l68.cloudfront.net/4809383c92099be1754c0718da9393d16d80a406/33441/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
+<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
 	<div class="header"><b>CODEX</b></div><br>
 	<div class="para">CODEX is a shared digital platform between government agencies and private sectors to develop better, faster and more cost-effective digital services.
 </div>
@@ -272,7 +272,7 @@ https://www.smartnation.gov.sg/initiatives/strategic-national-projects
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img src="https://d33wubrfki0l68.cloudfront.net/e668240e1ea9cfe617cfbac098c3ba2d6fd5ab94/435e0/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
+<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
 	<div class="header"><b>E-Payments</b></div><br>
 	<div class="para">To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
 </div>
