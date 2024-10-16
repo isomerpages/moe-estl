@@ -37,8 +37,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jing_jing.jpg">
 </div>
 <p><strong>Zhao Jingjing</strong>
-</p>
-<p>Softare Engineer</p>
+<br>Softare Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
