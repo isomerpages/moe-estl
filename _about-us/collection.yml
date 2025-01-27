@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Our Story.md
-      - Vision and Mission.md
+      - Vision, Mission, Values.md
       - Our Values.md
       - Our People.md
