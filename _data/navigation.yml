@@ -4,12 +4,10 @@ links:
     collection: about-us
   - title: Our Work
     collection: our-work
-  - title: Our work
-    url: /our-work
-  - title: Life @ ESTL
-    url: /what-we-play/culture/
   - title: Blog
     url: https://estl.tech/
+  - title: Life @ ESTL
+    url: /what-we-play/culture/
   - title: Join Us
     url: /joinus/hiring-process/
   - title: Contact us
