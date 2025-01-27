@@ -1,10 +1,9 @@
 ---
 layout: homepage
-title: Experimental Systems and Technology Lab
-description: |-
-  An entrepreneurial product team, 
-  solving real problems in the education sector and 
-  enabling every student on their journey to realise their potential.
+title: Experimental Systems and Technology Lab, Government Technology Agency Singapore
+description: An entrepreneurial product team,  solving real problems in the
+  education sector and  enabling every student on their journey to realise their
+  potential.
 image: /images/estl-logo-text.svg
 permalink: /
 notification: ""
@@ -15,7 +14,7 @@ sections:
       subtitle: An entrepreneurial product team of Software Engineers, UX Designers,
         Agile Delivery Managers and Education Officers
   - infobar:
-      title: " we solve real problems in the education sector "
+      title: we solve real problems in the education sector
       description: An in-house development team within the Ministry of Education
       button: Our Work
       url: /what-we-do/our-work/
