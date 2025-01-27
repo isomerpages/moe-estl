@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - School Timetable App.md
       - SC Mobile.md
       - Parents Gateway.md
       - Our Work.md
