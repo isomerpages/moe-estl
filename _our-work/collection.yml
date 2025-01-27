@@ -2,11 +2,11 @@ collections:
   our-work:
     output: true
     order:
-      - OnePlacement.md
-      - School Timetable App.md
-      - SC Mobile.md
-      - Parents Gateway.md
       - Our Work.md
       - All Ears.md
       - FlexiList.md
       - OneSchoolBus.md
+      - Parents Gateway.md
+      - SC Mobile.md
+      - School Timetable App.md
+      - OnePlacement.md
