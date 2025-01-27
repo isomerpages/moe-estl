@@ -8,9 +8,7 @@ links:
     url: https://estl.tech/
   - title: Life@ESTL
     collection: life-at-estl
-  - title: Contact us
-    url: /contact-us/
-  - title: Work
-    resource_room: true
   - title: Careers
     url: /careers/
+  - title: Contact us
+    url: /contact-us/
