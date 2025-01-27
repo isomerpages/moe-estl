@@ -2,6 +2,8 @@ logo: /images/estl-logo-text.svg
 links:
   - title: About us
     collection: about-us
+  - title: Our Work
+    collection: our-work
   - title: Our work
     url: /our-work
   - title: Life @ ESTL
