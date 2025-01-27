@@ -6,11 +6,9 @@ links:
     collection: our-work
   - title: Blog
     url: https://estl.tech/
-  - title: Join Us
-    url: /joinus/hiring-process/
+  - title: Life@ESTL
+    collection: life-at-estl
   - title: Contact us
     url: /contact-us/
   - title: Work
     resource_room: true
-  - title: Life@ESTL
-    collection: life-at-estl
