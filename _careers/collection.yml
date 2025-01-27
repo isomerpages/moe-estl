@@ -1,5 +1,0 @@
-collections:
-  careers:
-    output: true
-    order:
-      - Example.md
