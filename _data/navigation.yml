@@ -4,11 +4,11 @@ links:
     collection: about-us
   - title: Our Work
     collection: our-work
-  - title: Blog
-    url: https://estl.tech/
   - title: Life@ESTL
     collection: life-at-estl
   - title: Careers
     url: /careers/
+  - title: Blog
+    url: https://estl.tech/
   - title: Contact us
     url: /contact-us/
