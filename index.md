@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       title: Experimental Systems and Technology Lab
-      background: /images/Homepage/estl_timelapse.gif
+      background: /images/Homepage/estl_timelapse_new.gif
       subtitle: An entrepreneurial product team of Software Engineers, UX Designers,
         Agile Delivery Managers and Education Officers
   - infopic:
