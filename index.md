@@ -33,4 +33,36 @@ sections:
           description: Infobox description
         - title: Our hiring
           description: Infobox description
+  - textcards:
+      title: Catalyse Transformation
+      subtitle: We are here to
+      id: textcards
+      description: in education sector
+      cards:
+        - title: Our work
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Our culture
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Career Opportunities
+          description: Card description Card description Card description Card description
+          linktext: Learn more
+          url: ""
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 24 February 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
