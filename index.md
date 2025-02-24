@@ -21,9 +21,16 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       image: /images/home_estl01.jpg
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+  - infocols:
+      title: Catalyse Transformation
+      subtitle: Education sector
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
