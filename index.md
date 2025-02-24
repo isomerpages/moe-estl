@@ -14,11 +14,13 @@ sections:
       subtitle: An entrepreneurial product team of Software Engineers, UX Designers,
         Agile Delivery Managers and Education Officers
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: What we do
+      description: We are an in-house team within the Ministry of Education, solving
+        real problems in the education sector
+      button: Read our Vision, Mission, Values
       alt: Image alt text
+      url: /about-us/vision-mission-values/
+      image: /images/home_estl01.jpg
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
