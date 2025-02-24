@@ -25,7 +25,7 @@ sections:
       title: Catalyse Transformation
       subtitle: We are here to
       id: textcards
-      description: in education sector
+      description: in the education sector
       cards:
         - title: Our work
           description: Card description
