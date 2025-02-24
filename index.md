@@ -13,11 +13,6 @@ sections:
       background: /images/Homepage/estl_timelapse.gif
       subtitle: An entrepreneurial product team of Software Engineers, UX Designers,
         Agile Delivery Managers and Education Officers
-  - infobar:
-      title: we solve real problems in the education sector
-      description: An in-house development team within the Ministry of Education
-      button: Our Work
-      url: /what-we-do/our-work/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
