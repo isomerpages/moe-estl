@@ -21,18 +21,6 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       image: /images/home_estl01.jpg
-  - infocols:
-      title: Catalyse Transformation
-      subtitle: Education sector
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Our work
-          description: Infobox description
-        - title: Our culture
-          description: Infobox description
-        - title: Our hiring
-          description: Infobox description
   - textcards:
       title: Catalyse Transformation
       subtitle: We are here to
@@ -48,21 +36,7 @@ sections:
           linktext: Learn more
           url: ""
         - title: Career Opportunities
-          description: Card description Card description Card description Card description
+          description: Card description
           linktext: Learn more
           url: ""
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 24 February 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
