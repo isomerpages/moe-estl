@@ -35,7 +35,7 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-        - title: Career Opportunities
+        - title: Career opportunities
           description: Card description
           linktext: Learn more
           url: ""
