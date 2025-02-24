@@ -27,10 +27,10 @@ sections:
       id: infocols
       linktext: Learn more
       infoboxes:
-        - title: Infobox
+        - title: Our work
           description: Infobox description
-        - title: Infobox
+        - title: Our culture
           description: Infobox description
-        - title: Infobox
+        - title: Our hiring
           description: Infobox description
 ---
