@@ -26,7 +26,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/june.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="June" src="/images/People photos/june.png">
 </div>
 <p><strong>June Aw</strong>
 <br>Quality Engineer</p>
@@ -34,24 +34,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jing_jing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Daniel" src="/images/People photos/daniel.png">
 </div>
-<p><strong>Zhao Jingjing</strong>
-<br>Softare Engineer</p>
+<p><strong>Daniel </strong>
+<br>Data Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jie_feng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ryan" src="/images/People photos/ryan.png">
 </div>
+<p><strong>Ryan Zhuang </strong>
+<br>Delivery Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ian_yong.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Image</p>
