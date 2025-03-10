@@ -40,12 +40,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong>June Aw</strong>
+<br>Quality Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Image</p>
+<p></p>
+<p><strong>Daniel </strong>
+<br>Data Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Image</p>
+<p><strong>Ryan Zhuang </strong>
+<br>Delivery Manager</p>
 </td>
 </tr>
 <tr>
