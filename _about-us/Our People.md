@@ -40,15 +40,25 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/People photos/june_oval.png">
+</div>
 <p><strong>June Aw</strong>
 <br>Quality Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/People photos/daniel_oval.png">
+</div>
 <p><strong>Daniel </strong>
 <br>Data Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/People photos/ryan_oval.png">
+</div>
 <p><strong>Ryan Zhuang </strong>
 <br>Delivery Manager</p>
 </td>
