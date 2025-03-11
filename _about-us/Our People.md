@@ -63,50 +63,6 @@ variant: tiptap
 <br>Delivery Manager</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Image</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
