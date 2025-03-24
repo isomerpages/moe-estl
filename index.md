@@ -28,15 +28,17 @@ sections:
       description: in the education sector
       cards:
         - title: Our work
-          description: Card description
+          description: We design and deliver innovative digital solutions for the
+            education sector.
           linktext: Learn more
           url: ""
         - title: Our culture
-          description: Card description
+          description: We shape a nurturing, dynamic space where all are empowered to make
+            an impact.
           linktext: Learn more
           url: ""
         - title: Career opportunities
-          description: Card description
+          description: We are a "people-first" community - join us and grow together.
           linktext: Learn more
           url: ""
 ---
